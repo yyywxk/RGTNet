@@ -4,18 +4,6 @@
 
 Implementation for paper: [Residual grounding transformer network for terrain recognition on the lunar surface](https://doi.org/10.1364/AO.428232 ).
 
-## Contents
-
-1. [Introduction](#Introduction)
-2. [Requirements](#Requirements)
-3. [Data Preparation](#Data Preparation)
-4. [Model Training](#Model Training)
-5. [Model Testing](#Model Testing)
-6. [Citation](#Citation)
-7. [Question](#Question)
-8. [Acknowledgement](#Acknowledgement)
-9. [License](#License)
-
 ## Requirements
 
 - Packages
