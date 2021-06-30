@@ -146,7 +146,7 @@ If our work is useful for your research, please consider citing:
 
 ```tex
 @article{qiu2021rgtnet,
-  author = {Linwei Qiu, Haichao Li, ZhiLi and Cheng Wang},
+  author = {Linwei Qiu, Haichao Li, Zhi Li and Cheng Wang},
   journal = {Appl. Opt.},
   number = {19},
   publisher = {OSA},
