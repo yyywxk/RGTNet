@@ -124,7 +124,6 @@ Follow steps below to train your model:
    ```
 
 
-
 ## Model Testing
 
 Run the testing script.
