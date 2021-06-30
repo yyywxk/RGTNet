@@ -18,10 +18,9 @@ Implementation for paper: [Residual grounding transformer network for terrain re
   - opencv-python = 4.2.0.34
   - tensorboard = 2.2.2
   - tensorboardX = 2.0
-- pytorch = 1.2.0
-  
+  - pytorch = 1.2.0
   - torchvision = 0.4.0a0
-- cudatoolkit = 10.0.130
+  - cudatoolkit = 10.0.130
   - cudnn = 7.6.0
   
 
@@ -66,7 +65,7 @@ Install dependencies:
        ├── ...
    ```
 
-   If you want to get the full **ce3tr** dataset, please contact '[qiulinwei@buaa.edu.cn](mailto:qiulinwei@buaa.edu.cn)'.
+   If you want to get the full **ce3tr** dataset, please contact [qiulinwei@buaa.edu.cn](mailto:qiulinwei@buaa.edu.cn).
 
 1. Get LBP feature maps.
 
@@ -161,7 +160,7 @@ If our work is useful for your research, please consider citing:
 
 ## Questions
 
-Please contact '[qiulinwei@buaa.edu.cn](mailto:qiulinwei@buaa.edu.cn)'
+Please contact [qiulinwei@buaa.edu.cn](mailto:qiulinwei@buaa.edu.cn).
 
 ## Acknowledgement
 
